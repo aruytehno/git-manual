@@ -65,7 +65,7 @@
 **<TODO> построчный коммит**
 **<TODO> суть веток, hard reset, mixed reset, cherry pick**
 **<TODO> interactive rebase**
-  
+  Полезные ссылки:
 - [Git](https://git-scm.com/)
 - [Git guides](https://guides.github.com/)
 - [Git WiKi](https://en.wikipedia.org/wiki/Git)
@@ -77,3 +77,17 @@
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) ([GitHub](https://github.com/mermaid-js/mermaid))
 - [Визуализацор Gource](https://gource.io/)  ([GitHub](https://github.com/acaudwell/Gource))
 - [MdWiki](https://github.com/Dynalon/mdwiki/)
+  
+  Инфографики:
+  # Mermaid #  
+
+### Mermaid позволяет создавать диаграммы и визуализации с помощью текста и кода. ###  
+
+Это инструмент построения диаграмм и диаграмм на основе Javascript, который отображает текстовые определения, вдохновленные уценкой, для динамического создания и изменения диаграмм.
+
+Основная цель Mermaid-помочь визуализировать документацию.  
+
+[mermaid git](https://github.com/mermaid-js/mermaid/blob/develop/docs/README.md)  
+[extension chrome](https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe/related)  
+[Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)  
+[Иконки для инфографиков](https://fontawesome.com/)
