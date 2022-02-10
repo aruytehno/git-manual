@@ -1,3 +1,4 @@
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png)
 # Философия работы с git-ом
 
 ## Мотивация
