@@ -65,3 +65,15 @@
 **<TODO> построчный коммит**
 **<TODO> суть веток, hard reset, mixed reset, cherry pick**
 **<TODO> interactive rebase**
+  
+- [Git](https://git-scm.com/)
+- [Git guides](https://guides.github.com/)
+- [Git WiKi](https://en.wikipedia.org/wiki/Git)
+- [Приложение на ПК](https://desktop.github.com/)
+- [Мануал по разметке](https://www.makeareadme.com/)
+- [GitHub-Pages](https://pages.github.com/)
+- [Repostatus](https://www.repostatus.org/)
+- [Readme](https://en.wikipedia.org/wiki/README)  
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) ([GitHub](https://github.com/mermaid-js/mermaid))
+- [Визуализацор Gource](https://gource.io/)  ([GitHub](https://github.com/acaudwell/Gource))
+- [MdWiki](https://github.com/Dynalon/mdwiki/)
