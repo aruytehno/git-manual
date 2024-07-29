@@ -65,9 +65,3 @@
 **<TODO> построчный коммит**
 **<TODO> суть веток, hard reset, mixed reset, cherry pick**
 **<TODO> interactive rebase**
-Основная цель Mermaid-помочь визуализировать документацию.  
-
-[mermaid git](https://github.com/mermaid-js/mermaid/blob/develop/docs/README.md)  
-[extension chrome](https://chrome.google.com/webstore/detail/github-%2B-mermaid/goiiopgdnkogdbjmncgedmgpoajilohe/related)  
-[Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)  
-[Иконки для инфографиков](https://fontawesome.com/)
